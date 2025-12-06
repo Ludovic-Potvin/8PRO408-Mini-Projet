@@ -1,7 +1,7 @@
 # Mini projet - Analyse catalogue Netflix
 Auteurs:
 - POTL15100200 - Ludovic Potvin
-- Louis Seranne
+- SERL29010100 - Louis Seranne
 # Installation
 ## Installation d'environnement virtuel
 - Creer un environnement virtuel: `python -m venv venv`
